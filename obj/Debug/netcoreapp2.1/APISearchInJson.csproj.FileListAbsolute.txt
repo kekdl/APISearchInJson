@@ -1,0 +1,14 @@
+/home/sasha/wargamming/APISearchInJson/bin/Debug/netcoreapp2.1/APISearchInJson.deps.json
+/home/sasha/wargamming/APISearchInJson/bin/Debug/netcoreapp2.1/APISearchInJson.runtimeconfig.json
+/home/sasha/wargamming/APISearchInJson/bin/Debug/netcoreapp2.1/APISearchInJson.runtimeconfig.dev.json
+/home/sasha/wargamming/APISearchInJson/bin/Debug/netcoreapp2.1/APISearchInJson.dll
+/home/sasha/wargamming/APISearchInJson/bin/Debug/netcoreapp2.1/APISearchInJson.pdb
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.csprojAssemblyReference.cache
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.csproj.CoreCompileInputs.cache
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.RazorAssemblyInfo.cache
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.RazorAssemblyInfo.cs
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.AssemblyInfoInputs.cache
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.AssemblyInfo.cs
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.RazorTargetAssemblyInfo.cache
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.dll
+/home/sasha/wargamming/APISearchInJson/obj/Debug/netcoreapp2.1/APISearchInJson.pdb
